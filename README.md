@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @yen2i
+- 👩🏻‍💻 I'm a sophomore at Seoul National University of Science and Technology.
+- 👀 I’m interested in financial accounting and marketing!
+- 🌱 I’m currently learning C languages and BPM.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+yen2i/yen2i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
