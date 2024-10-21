@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yen2i
-- 👩🏻‍💻 I'm a sophomore at Seoul National University of Science and Technology.
+- 👋 Hi, I’m Yeeun Lee
+- 👩🏻‍💻 I'm a sophomore in ITM at SNUT.
 - 👀 I’m interested in financial accounting and marketing!
-- 🌱 I’m currently learning C languages and BPM.
+- 🌱 I’m currently learning C languages.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
